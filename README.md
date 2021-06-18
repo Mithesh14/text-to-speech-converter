@@ -8,8 +8,7 @@
 
 # Screenshots 
 
-➡️This website is made in such a way that whenever you load the page, it will mention "This project is done by Mithesh"  ❗
-
+➡️This website is made in such a way that whenever you load the page, it will mention "This website is developed by Mithesh"  ❗
 
 ➡️ This is done using speechsynthesis and SpeechSynthesisUtterance commands ❗
 
