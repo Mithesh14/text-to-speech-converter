@@ -4,7 +4,7 @@
  
 # Project deployed at
 
-<a href="https://mithesh14.github.io/Github-profile/">Converter</a>
+<a href="https://mithesh14.github.io/text-to-speech-converter/">Converter</a>
 
 # Screenshots 
 
