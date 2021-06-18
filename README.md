@@ -1,6 +1,6 @@
 # Text to speech converter
 
-✏️A simple converter to convert the text to speech using html, css and javascript ❗
+✏️A simple converter to convert the text to speech developed using html, css and javascript ❗
  
 # Project deployed at
 
