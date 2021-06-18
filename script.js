@@ -1,4 +1,4 @@
-speechSynthesis.speak(new SpeechSynthesisUtterance("This website is done by Mithesh"));
+speechSynthesis.speak(new SpeechSynthesisUtterance("This website is developed by Mithesh"));
 var txtInput = document.querySelector('#txtInput');
 var voiceList = document.querySelector('#voiceList');
 var btnSpeak = document.querySelector('#btnSpeak');
